@@ -1,10 +1,13 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kajidog&count_private=true&show_icons=true&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kajidog&count_private=true&show_icons=true&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajidog&theme=buefy" />
-</a>
+<br />
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajidog&layout=compact&theme=buefy"/>
+   </a>
+
+
 <!--
 **kajidog/kajidog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
